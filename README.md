@@ -3,12 +3,12 @@
 
 A collection of programs to encrypt and decrypt messages  using multiple different ciphers. For more information 
 
-## *Features*
+## Features
 * Quick and easy to use.
 * Multiple cipher types to encrypt/decrypt messages.
 * Options to type message or read in files.
 
-## *Necessary Installations*
+## Necessary Installations
 The following packages are all required to use all of the programs (requirements differ between programs). Documentation and instructions for installing each package can be found below:<br>
 
 ### `Python3`
@@ -29,7 +29,7 @@ The following packages are all required to use all of the programs (requirements
 2. To check if you already have this installed, try entering `pip show numpy` (you may need to use `pip3` if you are a Mac or Homebrew user) in your terminal.
 3. Documentation for `moviePy` can be found [here](https://numpy.org/doc/stable/). Installation instructions are included.
 
-## *Instructions for Use (for each program)*
+## Instructions for Use (for each program)
 1. For running `caesar_cipher.py`
     * This program allows the user to encrypt and decrypt messages with caesar cipher. It accepts messages as user input, or reads in from a file.
     * *Encryption*: When prompted, choose the encrypt option (press E) then enter message the desired shift key (0-25).
